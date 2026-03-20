@@ -1,0 +1,20 @@
+{
+  "name": "jar-analyzer-plugin",
+  "version": "1.0.0",
+  "description": "jar-analyzer project for java vulnerability analysis",
+  "author": {
+    "name": "4ra1n",
+    "email": "emyiqing@gmail.com",
+    "url": "https://github.com/4ra1n"
+  },
+  "homepage": "https://github.com/jar-analyzer/jar-analyzer-claude",
+  "repository": "https://github.com/jar-analyzer/jar-analyzer-claude",
+  "license": "MIT",
+  "tags": [
+    "jar-analyzer",
+    "class",
+    "jar",
+    "security",
+    "code-audit"
+  ]
+}

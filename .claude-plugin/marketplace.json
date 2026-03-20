@@ -1,0 +1,32 @@
+{
+  "name": "jar-analyzer-marketplace",
+  "owner": {
+    "name": "4ra1n",
+    "url": "https://github.com/4ra1n"
+  },
+  "metadata": {
+    "description": "marketplace for jar-analyzer project",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jar-analyzer-plugin",
+      "description": "jar-analyzer project for java vulnerability analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "4ra1n",
+        "email": "emyiqing@gmail.com",
+        "url": "https://github.com/4ra1n"
+      },
+      "homepage": "https://github.com/jar-analyzer/jar-analyzer-claude",
+      "tags": [
+        "jar-analyzer",
+        "class",
+        "jar",
+        "security",
+        "code-audit"
+      ],
+      "source": "./plugins/jar-analyzer-plugin"
+    }
+  ]
+}
