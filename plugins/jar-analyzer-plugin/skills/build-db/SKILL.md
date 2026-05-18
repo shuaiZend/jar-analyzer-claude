@@ -87,6 +87,7 @@ java -jar <plugin_dir>/bin/jar-analyzer-engine-1.2.0.jar [options]
 java -version
 # 确保 Java 8+ 可用
 ```
+确认sqlite数据库中是否已经存在项目数据，询问是否需要重建数据库并进行 VACUUM 回收空间，注意保持表结构完整，只移除数据避免不同项目间上下文和数据污染，最终影响分析结果。
 
 ### 2. 确认目标文件
 
